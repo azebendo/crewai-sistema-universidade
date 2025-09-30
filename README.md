@@ -13,6 +13,12 @@ A solução consiste em uma equipe de agentes de IA autônomos que colaboram par
 
 ---
 
+## 📊 Dados Utilizados
+
+**Nota Importante:** Os dados contidos nos arquivos `estudantes.csv` e `universidades.csv` são **puramente fictícios** e foram gerados apenas para fins de demonstração deste projeto. Qualquer semelhança com pessoas ou instituições reais é mera coincidência.
+
+---
+
 ## 🔨 Funcionalidades Principais
 
 - **Análise de Perfil:** Agentes especializados em analisar os dados brutos dos estudantes para criar perfis enriquecidos, considerando suas notas, interesses e preferências.
